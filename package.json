@@ -1,6 +1,6 @@
 {
   "name": "gifsicle-stream-papandreou",
-  "version": "0.1.1",
+  "version": "0.1.1-patch1",
   "description": "The gifsicle command line utility as a readable/writable stream.",
   "main": "lib/Gifsicle.js",
   "directories": {

@@ -1,5 +1,5 @@
 {
-  "name": "gifsicle-stream",
+  "name": "gifsicle-stream-papandreou",
   "version": "0.1.1",
   "description": "The gifsicle command line utility as a readable/writable stream.",
   "main": "lib/Gifsicle.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oohnoitz/node-gifsicle.git"
+    "url": "git://github.com/papandreou/node-gifsicle-stream.git"
   },
   "keywords": [
     "gifsicle",
